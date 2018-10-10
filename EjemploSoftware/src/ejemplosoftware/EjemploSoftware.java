@@ -16,6 +16,7 @@ public class EjemploSoftware {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo Pedro");
+        System.out.println("Hola mundo Edith");
        
         
     }
